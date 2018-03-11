@@ -39,4 +39,4 @@ bot.on('message', async message => {
 });
 
 // This logs the bot into the server itself.
-bot.login(logintoken);
+bot.login(process.env.logintoken);
