@@ -5,7 +5,6 @@
 
 // The various imports for the bot
 const Discord = require('discord.js');
-const config = require('./config.json');
 const util = require('./util');
 
 // Create a new instance of the Discord Client Class.
