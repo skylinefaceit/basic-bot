@@ -30,7 +30,7 @@ var options = {
   url: `https://fortnite.y3n.co/v2/player/${playerName}`,
   headers: {
     'User-Agent': 'nodejs request',
-    'X-Key': "API KEY HERE"
+    'X-Key': "DB4NTNjRcl256enxhwlM"
   }
 }
 
